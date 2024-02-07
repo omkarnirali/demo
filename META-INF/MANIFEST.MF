@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jdcasey
+Build-Jdk: 1.4.2_09
+Extension-Name: maven-project
+Specification-Title: This library is used to not only read Maven proje
+ ct object model files, but to assemble inheritence
+     and to retrieve remote models as required.
+Specification-Vendor: Apache Software Foundation
+Implementation-Vendor: Apache Software Foundation
+Implementation-Title: maven-project
+Implementation-Version: 2.0.1
+
